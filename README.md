@@ -10,13 +10,13 @@ A user can do the following:
 A guest can only view teachers, students and courses
 
 ## Database
-The tables in the database are a as follows:
+The tables in the database are as follows:
 - students: studentid, firstname, lastname, addressid
 - addresses: addressid, address, city, zipcode
 - teachers: teacherid, firstname, lastname
 - courses: courseid, title, teacherid
 - studentClasses: courseid, studentid  
 
-Students and addresses have a 1:1 relationship because 1 student can have only 1 address
+Students and addresses have a 1:1 relationship because 1 student can have only 1 address.
 Teachers and courses have a 1:Many relationship because 1 teacher can have many courses they teach.
 Students and courses have a Many:Many relationship because many students can have many courses and vice versa.
