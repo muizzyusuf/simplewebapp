@@ -7,7 +7,7 @@ A user can do the following:
 - Edit a teacher, student or course.
 - Delete a teacher, student or course.
 - Add/remove a student to/from a course.
-A guest can only view teachers, students and courses
+- A guest can only view teachers, students and courses
 
 ## Database
 The tables in the database are as follows:
