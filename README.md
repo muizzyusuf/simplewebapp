@@ -19,8 +19,8 @@ The tables in the database are as follows:
 
 Students and addresses have a 1:1 relationship because 1 student can have only 1 address.
 Teachers and courses have a 1:Many relationship because 1 teacher can have many courses they teach.
-Students and courses have a Many:Many relationship because many students can have many courses and vice versa.
+Students and courses have a Many:Many relationship because many  students can have many courses and vice versa.
 
 ## Video demo
-Video demo can be found here https://drive.google.com/file/d/1AABvZijri-ZtT0rps_RYwIaHCebQHkX7/view?usp=sharing
+Video demo can be found here https://drive.google.com/file/d/170KgfP1KimIhYCzPa-Iz5Ijy7__vGAV7/view?usp=sharing .
 Tutorial followed can be found here https://www.youtube.com/watch?v=EcYXsp78Xy8&t=5146s
